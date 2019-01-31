@@ -1,11 +1,7 @@
-eureka:
-  client:
-     serviceUrl:
-        defaultZone: http://localhost:8761/eureka/
 spring:
   application:
     name: product
-datasource:
+  datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: 123456
