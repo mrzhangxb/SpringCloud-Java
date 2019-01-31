@@ -1,7 +1,7 @@
 spring:
   application:
     name: order
-datasource:
+  datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: 123456
